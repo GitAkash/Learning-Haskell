@@ -1,3 +1,4 @@
-module FunctionWithWhere where
+module FunctionWithWhere
+
 printInc n = print plusTwo
  where plusTwo = n + 2
